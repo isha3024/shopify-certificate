@@ -1,4 +1,4 @@
-# shopify-certificate
+# SHOPIFY CERTIFICATE
 
 - Certified in Shopify Foundation Course
 - Got certification via [Credly](https://www.credly.com/) and also got Shopify Foundation Badge.
